@@ -1,51 +1,63 @@
-<h1 align="center">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAmCrEGBhya7LmdUPuAbOox1LQYDj3ounfX_L8airzGZUMeR8PsjoyGscBdekIYScUmM0na8bPjssiWNkJygBqCV8OnYMnv_VnbV-c6BUt2gKpvl3ysVwY4bAQR0Bl2dabkn2Wu-KOPs0j5zD5aU-TAYcDjquF4VPWGLgxk-j-19e9t0WoT_8zyZiNKOMK/s1600/photo1696790630-removebg-preview.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2000" data-original-width="2000" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAmCrEGBhya7LmdUPuAbOox1LQYDj3ounfX_L8airzGZUMeR8PsjoyGscBdekIYScUmM0na8bPjssiWNkJygBqCV8OnYMnv_VnbV-c6BUt2gKpvl3ysVwY4bAQR0Bl2dabkn2Wu-KOPs0j5zD5aU-TAYcDjquF4VPWGLgxk-j-19e9t0WoT_8zyZiNKOMK/s1600/photo1696790630-removebg-preview.png" /></a></p></h1>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohammed Ahmed Elnaggar</h1>
-<h3 align="center">From Egypt, I'm a Communication Engineer act as a software developer with problem-solving skills in creating and optimizing your device kernel also I'm an autodidact person always intend to learn.</h3>
+# Mohammed Elnaggar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=negrroo&label=Profile%20views&color=0e75b6&style=flat" alt="negrroo" /> </p>
+### Technical Project Manager | KNX Smart Home & Building Automation
+Android Kernel Developer &nbsp;•&nbsp; Web Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=negrroo" alt="negrroo" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-negrroo.rf.gd-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://negrroo.rf.gd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-negrroo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/negrroo)
+[![Email](https://img.shields.io/badge/Email-tech.alnaggar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.alnaggar@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/negrroo?style=for-the-badge&logo=github&label=Followers)](https://github.com/negrroo?tab=followers)
 
-<p align="left"> <a href="https://twitter.com/negrroo" target="blank"><img src="https://img.shields.io/twitter/follow/negrroo?logo=twitter&style=for-the-badge" alt="negrroo" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [LawRun Kernel](https://lawrun-kernel.blogspot.com)
+---
 
-- 🌱 I’m currently learning **CCNA, Photoshop, AdobeXD, Kotlin & Illustrator**
+## About
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/negrroo](https://www.behance.net/negrroo)
+Based in Saudi Arabia. I deliver KNX smart home and building automation projects, from ETS commissioning to handover. In my own time I build and maintain **LawRun Kernel**, an open source Android kernel for Xiaomi and Realme devices.
 
-- 📝 I regularly write articles on [https://mohammedaelnaggar.ml](https://mohammedaelnaggar.ml)
+## What I do
 
-- 📫 How to reach me **mohammedaelnaggar1@gmail.com**
+- **KNX and smart home:** system design, ETS programming, commissioning, coordinating clients and contractors.
+- **Project management:** scope, schedule, site coordination, testing and handover.
+- **Android kernel development:** C, Linux kernel 4.4 to 4.14, linux-stable merges, performance and battery tuning.
+- **Web and scripts:** HTML/CSS, Python, Bash, Kotlin.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OrRbKvT-ZGCRl1klXFJPzrbjqqpyczau/view?usp=sharing](https://drive.google.com/file/d/1OrRbKvT-ZGCRl1klXFJPzrbjqqpyczau/view?usp=sharing)
+## Tech
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/negrroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="negrroo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/negrroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="negrroo" height="30" width="40" /></a>
-<a href="https://fb.com/negrroo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="negrroo1" height="30" width="40" /></a>
-<a href="https://instagram.com/negrroo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="negrroo1" height="30" width="40" /></a>
-<a href="https://www.behance.net/negrroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="negrroo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lawrunkernel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lawrunkernel" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![Skills](https://skillicons.dev/icons?i=c,linux,kotlin,bash,python,html,css,git,android)
 
-<h3 align="left">Examples of my work:</h3>
-<h1 align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=OZIMFoNV2cc
-" target="_blank"><img alt="IMAGE ALT TEXT HERE" border="10" height="180" src="http://img.youtube.com/vi/OZIMFoNV2cc/0.jpg" width="340" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=4QbTvBQB2QU
-" target="_blank"><img alt="IMAGE ALT TEXT HERE" border="10" height="180" src="http://img.youtube.com/vi/4QbTvBQB2QU/0.jpg" width="340" /></a><br />
-<div style="text-align: center;">Always Be Ready To Run!</div></h1>
+</div>
 
-<p><img align="center" alt="negrroo" src="https://github-readme-stats.vercel.app/api?username=negrroo&amp;show_icons=true&amp;locale=en" /></p>
-<p><img align="center" alt="negrroo" src="https://github-readme-streak-stats.herokuapp.com/?user=negrroo&amp;" /></p>
-<p><img align="left" alt="negrroo" src="https://github-readme-stats.vercel.app/api/top-langs?username=negrroo&amp;show_icons=true&amp;locale=en&amp;layout=compact" /></p><br /><br /><br /><br /><br /><br />
-<center>
-<br /><h3 align="left">Support:</h3>
-<!--PayPal Logo--><a href="https://lawrun-kernel.blogspot.com/2020/08/donation-link.html" title="Support LawRun"><img alt="Donation Link" border="0"  height="50" src="https://github.com/negrroo/LawRun-Stuff/releases/download/8/Donate.png" width="210" /></a><!--PayPal Logo-->
-</center>
+## LawRun Kernel
+
+Open source kernels for Xiaomi and Realme phones, with builds posted on XDA and YouTube.
+
+| Platform | Devices | Repo |
+|---|---|---|
+| SDM845 | Poco F1 (beryllium), Mi 8 (dipper), Mi Mix 2S (polaris) | [LawRun](https://github.com/negrroo/LawRun) |
+| SDM845 CAF 4.9 | same devices, linux-stable merged | [LawRun_xiaomi_sdm845_CAF](https://github.com/negrroo/LawRun_xiaomi_sdm845_CAF) |
+| SDM660 | Redmi Note 5 Pro (whyred), Redmi Note 7 (lavender), Redmi 6X (wayne) | [LawRun_xiaomi_sdm660_All](https://github.com/negrroo/LawRun_xiaomi_sdm660_All) |
+| SDM710 | Realme 3 Pro, Realme 5 Pro, Realme X | [LawRun_realme_sdm710](https://github.com/negrroo/LawRun_realme_sdm710) |
+| SM6250 | Redmi Note 9 family and Poco M2 Pro (miatoll) | [LawRun_xiaomi_sm6250](https://github.com/negrroo/LawRun_xiaomi_sm6250) |
+| SM7150 | Mi 9T (davinci) | [LawRun_xiaomi_sm7150](https://github.com/negrroo/LawRun_xiaomi_sm7150) |
+| SM8150 | Poco X3 Pro (vayu) | [LawRun_xiaomi_sm8150_vayu](https://github.com/negrroo/LawRun_xiaomi_sm8150_vayu) |
+| SM8150 | K20 Pro (raphael) | [LawRun_xiaomi_sm8150](https://github.com/negrroo/LawRun_xiaomi_sm8150) |
+| SM8250 | Apollo, Alioth | [LawRun_xiaomi_sm8250](https://github.com/negrroo/LawRun_xiaomi_sm8250) |
+
+**Downloads and device list:** [lawrun-kernel.blogspot.com](https://lawrun-kernel.blogspot.com)
+**Kernel manager app:** [LawRun_App](https://github.com/negrroo/LawRun_App) &nbsp;|&nbsp; **Releases:** [LawRun_Manager](https://github.com/negrroo/LawRun_Manager)
+**Videos:** [YouTube](https://www.youtube.com/c/lawrunkernel)
+
+---
+
+<div align="center">
+
+### Open to roles in Saudi Arabia
+Technical Project Manager and smart home positions. Let's talk: [tech.alnaggar@gmail.com](mailto:tech.alnaggar@gmail.com)
+
+</div>
